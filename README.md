@@ -19,8 +19,10 @@
  
  🌱 I’m currently learning the advanced level of **Reactjs, TypeScript, and TailwindCSS**
 
+⚡ Fun fact: **More Repositories than Stars in the Sky**
  
  👁 **ኩሎ አመክሩ ወዘሠናየ አጽንዑ**
+ 
 
  </div>
 
@@ -39,30 +41,27 @@
   <a href="https://salesp07.github.io" target="_blank">
      <img src="#?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100072541569808" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 </div>
 
  <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,vscode,figma,tailwind,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br>
+</div>
 
+<hr/>
 
+<div align="center">
+      <h3>⌚🎤 Week up with a Degree!</h3>
 
-
-
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @Yohannesdires
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
 
 <!---
 Yohannesdires/Yohannesdires is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
