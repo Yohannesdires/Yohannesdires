@@ -33,11 +33,11 @@
 <a href="https://github.com/Yohannesdires">
   <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=black" />
 </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  <a href="https://www.linkedin.com/in/yohannis-dires-750797229?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7FEhU3qVQVe4NtS0AGkoUA%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="#?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
