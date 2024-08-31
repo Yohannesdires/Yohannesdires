@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yohannesdires.Yohannesdires" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=OpenSans&size=37&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Yohannis+Dires!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=OpenSans&size=37&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Hi👋+I'm+Yohannis+Dires!" />
 </h1>
 
 <h3 align="center">A passionate Frontend React developer at <span color="blue"> Helder Technologies Solution PLC</span> </h3>
